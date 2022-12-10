@@ -2,4 +2,4 @@ openai
 ipython
 ipywidgets
 jupyter_contrib_nbextensions
-voila==0.4.0
+voila
