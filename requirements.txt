@@ -4,6 +4,3 @@ ipykernel
 ipywidgets
 jupyter_contrib_nbextensions
 voila
-voila-material
-speechrecognition
-pyaudio
